@@ -80,6 +80,20 @@ Me caracterizo por:
 * Ejecuté 24 casos de prueba
 * Reporté 7 errores, optimizando la experiencia del usuario.
 ![Proyecto 1 - Casos de prueba](https://raw.githubusercontent.com/ricmvalencia/ricmvalencia/ea3eab3b9dafade7f0ec9fa6c04403bfb7414879/assets/Proyecto%201%20-%20Casos%20de%20prueba.jpg)
+![Proyecto 1 - Reporte de errores](https://raw.githubusercontent.com/ricmvalencia/ricmvalencia/ab4ef0d82da9b81c463d1b798a3ec8302f48762c/assets/Proyecto%201%20-%20Reporte%20de%20errores.jpg)
+
+
+### **🔹 Urban Routes | Proyecto 2**
+
+📌 Descripción: Plataforma que permite a los usuarios reservar taxis en tiempo real, gestionar métodos de pago y revisar el historial de viajes. 
+
+* Creé un mapa mental y un diagrama de flujo con Draw.io, para mejor tener un contexto mas claro de las caracteristicas a probar .
+* Creación de listas de comprobación con sus respectivas clases de equivalencia para validar requisitos.
+* Registro y descripción estructurada de bugs con severidad, pasos, resultado esperado y real.
+* Manipulación de la aplicación en diferentes escenarios para validar estabilidad
+
+🛠 Tecnologías utilizadas: Pruebas manuales, Google Sheets, Draw.io
+
 
 
 
