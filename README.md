@@ -76,7 +76,10 @@ Me caracterizo por:
 * Manipulación de la aplicación en diferentes escenarios para validar estabilidad
 
 🛠 Tecnologías utilizadas: Pruebas manuales, Google Sheets
-
+🔍 Contribución:
+* Ejecuté 24 casos de prueba
+* Reporté 7 errores, optimizando la experiencia del usuario.
+  
 
 
 
