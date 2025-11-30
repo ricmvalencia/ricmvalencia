@@ -66,14 +66,23 @@ Me caracterizo por:
 
 ## 📂 Proyectos Destacados
 
-### **🔹 Proyecto Y – Bootcamp QA Engineer**
+### **🔹 Urban Routes | Proyecto 1**
 
-Pruebas funcionales y de API a una aplicación real, aplicando:
+📌 Descripción: Plataforma que permite a los usuarios reservar taxis en tiempo real, gestionar métodos de pago y revisar el historial de viajes. 
 
-* Análisis de requisitos
-* Diseño de casos de prueba
-* Ejecución y reporte de bugs
-* Validaciones y pruebas de límites
+* Ejecución de pruebas de regresión sobre funcionalidades principales.
+* Creación de listas de comprobación para validar requisitos.
+* Registro y descripción estructurada de bugs con severidad, pasos, resultado esperado y real.
+* Manipulación de la aplicación en diferentes escenarios para validar estabilidad
+
+🛠 Tecnologías utilizadas: Pruebas manuales, Google Sheets
+
+
+
+
+
+
+
 
 ### **🔹 Kits API Testing – Ejercicio Técnico**
 
