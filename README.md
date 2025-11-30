@@ -79,6 +79,8 @@ Me caracterizo por:
 🔍 Contribución:
 * Ejecuté 24 casos de prueba
 * Reporté 7 errores, optimizando la experiencia del usuario.
+
+assets/Proyecto 1 - Casos de prueba.jpg
   
 
 
