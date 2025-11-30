@@ -79,6 +79,8 @@ Me caracterizo por:
 🔍 Contribución:
 * Ejecuté 24 casos de prueba
 * Reporté 7 errores, optimizando la experiencia del usuario.
+![Proyecto 1 - Casos de prueba](https://raw.githubusercontent.com/ricmvalencia/ricmvalencia/ea3eab3b9dafade7f0ec9fa6c04403bfb7414879/assets/Proyecto%201%20-%20Casos%20de%20prueba.jpg)
+
 
 
   
