@@ -94,6 +94,9 @@ Me caracterizo por:
 
 🛠 Tecnologías utilizadas: Pruebas manuales, Google Sheets, Draw.io
 
+[![Ver PDF](https://img.shields.io/badge/Ver_Diagrama-PDF-red?style=for-the-badge)](https://raw.githubusercontent.com/ricmvalencia/ricmvalencia/6e37cd644439b1a4da3e2401f2777270241e7d7b/assets/Diamgrama%20de%20flujo-Urban%20Routes.drawio.pdf.drawio.pdf)
+
+
 
 
 
