@@ -1,14 +1,9 @@
 <!-- Banner principal -->
 
 <p align="center">
-  <img src="RUTA_DE_TU_BANNER" alt="Banner Ricardo Mejía Valencia" />
+  <img src="assets/Banner linkedin.jpg" alt="Banner Ricardo Mejía Valencia" />
 </p>
 
-<!-- Foto de perfil -->
-
-<p align="center">
-  <img src="RUTA_DE_TU_FOTO_DE_PERFIL" alt="Ricardo Mejía Valencia" width="150" style="border-radius: 50%;" />
-</p>
 
 <h1 align="center">👋 Hola, soy Ricardo Mejía Valencia</h1>
 <h3 align="center">QA Engineer | Pruebas de API | Análisis de requisitos | Mejora continua</h3>
