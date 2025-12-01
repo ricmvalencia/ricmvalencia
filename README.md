@@ -95,32 +95,29 @@ Me caracterizo por:
 🛠 Tecnologías utilizadas: Pruebas manuales, Google Sheets, Draw.io
 
 [![Ver PDF](https://img.shields.io/badge/Ver_Diagrama-PDF-red?style=for-the-badge)](https://raw.githubusercontent.com/ricmvalencia/ricmvalencia/6e37cd644439b1a4da3e2401f2777270241e7d7b/assets/Diamgrama%20de%20flujo-Urban%20Routes.drawio.pdf.drawio.pdf)
+[![Ver PDF](https://img.shields.io/badge/Mapa_Mental-PDF-blue?style=for-the-badge)](https://raw.githubusercontent.com/ricmvalencia/ricmvalencia/3d1e1e91af3fd4e8b1c79a71461a39ef9179cf0a/assets/Mapa%20mental%20-%20Urban%20Routes.drawio.pdf)
+![Proyecto 2 - Clases de Equivalencia](https://raw.githubusercontent.com/ricmvalencia/ricmvalencia/3d1e1e91af3fd4e8b1c79a71461a39ef9179cf0a/assets/Proyecto%202%20-%20Clases%20de%20equivalencia.jpg)
+![Proyecto 2 - Casos de Prueba](https://raw.githubusercontent.com/ricmvalencia/ricmvalencia/3d1e1e91af3fd4e8b1c79a71461a39ef9179cf0a/assets/Proyecto%202%20-%20casos%20de%20prueba.jpg)
+
+### **🔹 Urban Grocers | Proyecto 4**
+
+📌 Descripción: Plataforma que permite a los usuarios solicitar domicilios en difeentes tiendas en tiempo real, gestionar métodos de pago, seleccionar los kits segun sus disponibilidades de inventario y verificar tiempos y costos de entrega de domiclio segun los horarios establecidos por las tiendasy las cantidades de productos. 
+
+* Ejecución manual de pruebas de API.
+* Construcción y validación de solicitudes HTTP (GET, POST, DELETE, PUT).
+* Análisis de respuestas JSON y códigos de estado.
+* Verificación de comportamiento esperado según documentación técnica
+
+🛠 Tecnologías utilizadas: Pruebas manuales, JIRA, Postman, Apidoc, Bases de datos
+🔍 Contribución:
+* Ejecuté 48 casos de prueba
+* Reporté 25 errores, optimizando la experiencia del usuario.
+ 
+
+### 📌 Acceso a mi tablero Jira  
+[![Jira Board](https://img.shields.io/badge/Ver_Tablero-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://ricmvalencia.atlassian.net/jira/software/c/projects/P4UG/list)
 
 
-
-
-
-  
-
-
-
-
-
-
-
-### **🔹 Kits API Testing – Ejercicio Técnico**
-
-Validación del endpoint:
-
-```
-POST /api/v1/kits/:id/products
-```
-
-Enfoque en:
-
-* Límite de 30 productos únicos por kit
-* Matriz de pruebas y casos límite
-* Validaciones de estado y mensajes de error
 
 ---
 
